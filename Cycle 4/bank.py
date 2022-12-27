@@ -32,7 +32,7 @@ class bank:
 
         else:
 
-            print("Insuffiecient Balance")        
+            print("Insuffiecient balance")        
 
 ob1 = bank()
 
