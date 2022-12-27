@@ -32,7 +32,7 @@ class bank:
 
         else:
 
-            print("Account is empty you are poor")        
+            print("Insuffiecient Balance")        
 
 ob1 = bank()
 
